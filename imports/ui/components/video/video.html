@@ -1,0 +1,14 @@
+<template name="video">
+  <h2>Video</h2>
+  <ul>
+    <li>
+      <form class="video-state-add">
+        <input type="text" name="title" placeholder="Title" required>
+        <input type="submit" name="submit" value="Add Title">
+      </form>
+    </li>
+    {{#each state}}
+      <li>{{this}}</li>
+    {{/each}}
+  </ul>
+</template>
