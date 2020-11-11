@@ -19,6 +19,11 @@ ecmascript@0.14.3              # Enable ECMAScript2015+ syntax in app code
 typescript@3.7.6              # Enable TypeScript syntax in .ts and .tsx modules
 shell-server@0.5.0            # Server-side component of the `meteor shell` command
 
+reactive-dict
+
+session
+
+
 ostrio:flow-router-extra # FlowRouter is a very simple router for Meteor
 less                     # Leaner CSS language
 
@@ -27,3 +32,29 @@ johanbrook:publication-collector  # Test a Meteor publication by collecting its 
 
 msavin:mongol
 msavin:jetsetter
+
+fourseven:scss
+fortawesome:fontawesome
+
+tomi:upload-server
+tomi:upload-jquery
+
+accounts-base
+accounts-password
+useraccounts:unstyled
+raix:handlebar-helpers
+
+alanning:roles
+accounts-facebook
+service-configuration
+
+manuel:reactivearray
+
+juliancwirko:s-alert
+juliancwirko:s-alert-scale
+juliancwirko:s-alert-slide
+juliancwirko:s-alert-genie
+juliancwirko:s-alert-jelly
+juliancwirko:s-alert-flip
+juliancwirko:s-alert-bouncyflip
+juliancwirko:s-alert-stackslide
